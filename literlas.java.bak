@@ -1,0 +1,16 @@
+
+class literlas
+{
+	public static void main(String args[]){
+		System.out.println(10+2.8);
+		System.out.println(10+'A');
+		System.out.println(10+"achal");
+		System.out.println(10+2.8);
+		System.out.println('A'+"achal");
+		System.out.println('A'+2.4);
+		//System.out.println('A'+true);
+		System.out.println(2.4+"ACHAL");
+		//System.out.println(2.4+true);
+		System.out.println("achal"+true);
+	}
+}
